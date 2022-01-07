@@ -41,4 +41,6 @@ name. When an application has custom Babel configuration Next.js will automatica
 ## Node.js
 
 ## Next.js
+The interactive course with quizzes will guide you through everything you need to know to use Next.js.
+
 
