@@ -49,8 +49,8 @@ In Node.js the new ECMAScript standards can be used without problems, as you don
 The interactive course with quizzes will guide you through everything you need to know to use Next.js.
 
 Requirements: 
-### Visual Studio
-### Node.js
-### JavaScript
-### Chackra ui
-### Next.js
+* Visual Studio
+* Node.js
+* JavaScript
+* Chackra ui
+* Next.js
