@@ -47,6 +47,9 @@ In Node.js the new ECMAScript standards can be used without problems, as you don
 
 ## Next.js
 The interactive course with quizzes will guide you through everything you need to know to use Next.js.
+Pages with Dynamic Routes
+
+Next.js supports pages with dynamic routes. For example, if you create a file called pages/posts/[id].js, then it will be accessible at posts/1, posts/2, etc.
 
 Requirements: 
 * Visual Studio
