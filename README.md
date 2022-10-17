@@ -52,6 +52,9 @@ Importantly, Next.js lets you choose which pre-rendering form you'd like to use 
 
 We recommend using Static Generation over Server-side Rendering for performance reasons. Statically generated pages can be cached by CDN with no extra configuration to boost performance. However, in some cases, Server-side Rendering might be the only option.
 
+https://thenewstack.io/how-to-use-google-sheets-as-a-database-with-react-and-ssr/
+
+
 Requirements: 
 * Visual Studio
 * Node.js
